@@ -1,0 +1,11 @@
+=== EXP 1: Theoretical Replication Results ===
+Residual identity error: 2.66e-15
+Symbolic identity holds: True
+Weak fairness (martingale) passes: True
+Weak fairness (jump) E[Delta_e] = 1.0000 (D=1.0)
+Strong fairness (jump) Delta_e = 1.0000
+Counterexample deficit = 1.0000
+Discrepancy (uniform density) = 1.0000 >= D=1.0
+Min discrepancy (Gaussian family) = 1.0000
+Fair slope sign: negative (negative)
+Deployed slope sign: positive (positive)

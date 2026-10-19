@@ -1,0 +1,11 @@
+=== EXP 5: Descriptive Panel Results ===
+Basis e_t = P_t - S_t: True
+Simulated b_t range: [-0.0032, 0.0032]
+Half-life formula OK: True
+Lambda formula OK:    True
+AR(1) phi est error:  0.0085
+Panel AR(1) symbols: AMZN, GOOGL, AAPL, NVDA
+Venue slopes:
+  hyperliquid: sign(b>0)=positive
+  binance: sign(b>0)=positive
+  okx: sign(b>0)=positive

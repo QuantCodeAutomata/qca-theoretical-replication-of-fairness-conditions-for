@@ -1,0 +1,5 @@
+symbol,venue,listing_start,sample_len_obs,avg_premium,ar1_phi,halflife_hours,r_squared,funding_rule_form,slope_sign,discrete_dividend_atom
+AMZN,hyperliquid,2023-10,8000,,0.6724145975011464,1.7464898380268354,0.45213855931304814,premium_index_plus_interest,positive,False
+GOOGL,hyperliquid,2023-10,8000,,0.6996884609034469,1.94093578820423,0.4894829466549585,premium_index_plus_interest,positive,False
+AAPL,hyperliquid,2023-10,8000,,0.7303882970425981,2.206217605994708,0.5334026770291396,premium_index_plus_interest,positive,False
+NVDA,hyperliquid,2023-10,8000,,0.7572885474270687,2.4932371933642083,0.5733786589220251,premium_index_plus_interest,positive,False

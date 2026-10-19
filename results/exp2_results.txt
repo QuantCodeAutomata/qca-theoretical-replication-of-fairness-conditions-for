@@ -1,0 +1,8 @@
+=== EXP 2: Simulation Results ===
+Discrete dividend D = 1.0069
+Standard deficit ≈ D: True
+Event-credit matches shareholder: True
+AR(1) phi_true=0.7189, phi_hat=0.7270, error=0.0082
+Half-life true=2.100 h, estimated=2.174 h
+Deployed slope = 0.0500 (positive)
+Fair slope = -0.3309 (negative)

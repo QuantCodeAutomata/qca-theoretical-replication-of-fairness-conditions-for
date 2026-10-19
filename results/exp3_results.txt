@@ -1,0 +1,18 @@
+=== EXP 3: Atom Verification Results ===
+             atom_present_count  total_events  atom_rate
+venue                                                   
+binance                       5             5        1.0
+hyperliquid                   0             5        0.0
+
+Full table:
+underlying       venue instrument    ex_date     D       Mark  expected_atom  observed_atom  absolute_error  atom_present  D_over_Mark_bps     data_source
+      AAPL     binance   AAPLUSDT 2026-05-11 0.270 293.748261       -0.00092       -0.00092         0.00000          True         9.191544 synthetic_paper
+      AAPL hyperliquid       AAPL 2026-05-11 0.270 293.748261       -0.00092        0.00000         0.00092         False         9.191544 synthetic_paper
+      MSFT     binance    MSTUSDT 2026-05-21 0.910        NaN            NaN            NaN         0.00000          True              NaN synthetic_paper
+      MSFT hyperliquid       MSFT 2026-05-21 0.910 418.341193       -0.00218        0.00000         0.00218         False        21.752579 synthetic_paper
+      NVDA     binance   NVDAUSDT 2026-06-04 0.250 213.925214       -0.00117       -0.00117         0.00000          True        11.686327 synthetic_paper
+      NVDA hyperliquid       NVDA 2026-06-04 0.250 213.925214       -0.00117        0.00000         0.00117         False        11.686327 synthetic_paper
+     GOOGL     binance  GOOGLUSDT 2026-06-08 0.220 366.886667       -0.00060       -0.00060         0.00000          True         5.996402 synthetic_paper
+     GOOGL hyperliquid      GOOGL 2026-06-08 0.220 366.886667       -0.00060        0.00000         0.00060         False         5.996402 synthetic_paper
+      META     binance   METAUSDT 2026-06-15 0.525 577.448077       -0.00091       -0.00091         0.00000          True         9.091727 synthetic_paper
+      META hyperliquid       META 2026-06-15 0.525 577.448077       -0.00091        0.00000         0.00091         False         9.091727 synthetic_paper

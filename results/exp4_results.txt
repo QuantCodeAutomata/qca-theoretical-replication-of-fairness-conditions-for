@@ -1,0 +1,5 @@
+=== EXP 4: Residual Heatmap Results ===
+D = 5.0, tau = 24
+Straddling mean before: 0.046563
+Straddling mean after:  0.023801
+Reduction: 0.022761
